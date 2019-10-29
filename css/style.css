@@ -1,0 +1,340 @@
+@media (max-width:768px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 375px
+  }
+  .style13,
+  .style21 {
+    color: #3f5c76;
+    font-family: 'SF Pro Display',serif;
+    font-size: 1.9375em;
+    font-weight: 700;
+    margin-left: 44px;
+    margin-top: 52px;
+    height: 40px
+  }
+  .style21 {
+    color: #555d7e;
+    font-size: 1.6875em;
+    font-weight: 300;
+    margin-left: 99px;
+    margin-top: 179px;
+    height: 72px
+  }
+  .style17,
+  .style18,
+  .style19,
+  .style20 {
+    color: #3f5c76;
+    font-family: 'SF Pro Text',serif;
+    font-size: .9375em;
+    margin-left: 30px;
+    margin-top: 34px;
+    height: 101px
+  }
+  .style18,
+  .style19,
+  .style20 {
+    margin-left: 76px;
+    margin-top: 17px;
+    height: 43px
+  }
+  .style19,
+  .style20 {
+    margin-left: 39px;
+    margin-top: 23px;
+    height: 115px
+  }
+  .style19 {
+    margin-left: 86px;
+    margin-top: 22px;
+    height: 43px
+  }
+  .style14 {
+    background-color: #097ade;
+    border-top-left-radius: 27px;
+    border-top-right-radius: 27px;
+    border-bottom-left-radius: 27px;
+    border-bottom-right-radius: 27px;
+    display: flex;
+    margin-left: 38px;
+    margin-top: 35px;
+    width: 300px;
+    height: 50px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style15,
+  .style22 {
+    color: #fff;
+    font-family: 'SF Pro Text',serif;
+    font-size: 1.0625em;
+    font-weight: 500;
+    height: 21px
+  }
+  .style22 {
+    color: #097ade;
+    font-size: .9375em;
+    font-weight: 600;
+    margin-left: 73px;
+    margin-top: 26px;
+    height: 19px
+  }
+}
+@media (min-width:768px) and (max-width:920px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 768px
+  }
+  .style13,
+  .style21 {
+    color: #3f5c76;
+    font-family: 'SF Pro Display',serif;
+    font-size: 3.968em;
+    font-weight: 700;
+    margin-left: 90px;
+    margin-top: 106px;
+    height: 82px
+  }
+  .style21 {
+    color: #555d7e;
+    font-size: 3.456em;
+    font-weight: 300;
+    margin-left: 203px;
+    margin-top: 367px;
+    height: 147px
+  }
+  .style17,
+  .style18,
+  .style19,
+  .style20 {
+    color: #3f5c76;
+    font-family: 'SF Pro Text',serif;
+    font-size: 1.92em;
+    margin-left: 61px;
+    margin-top: 70px;
+    height: 207px
+  }
+  .style18,
+  .style19,
+  .style20 {
+    margin-left: 156px;
+    margin-top: 35px;
+    height: 88px
+  }
+  .style19,
+  .style20 {
+    margin-left: 80px;
+    margin-top: 47px;
+    height: 236px
+  }
+  .style19 {
+    margin-left: 176px;
+    margin-top: 45px;
+    height: 88px
+  }
+  .style14 {
+    background-color: #097ade;
+    border-top-left-radius: 27px;
+    border-top-right-radius: 27px;
+    border-bottom-left-radius: 27px;
+    border-bottom-right-radius: 27px;
+    display: flex;
+    margin-left: 78px;
+    margin-top: 72px;
+    width: 614px;
+    height: 102px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style15,
+  .style22 {
+    color: #fff;
+    font-family: 'SF Pro Text',serif;
+    font-size: 2.176em;
+    font-weight: 500;
+    height: 43px
+  }
+  .style22 {
+    color: #097ade;
+    font-size: 1.92em;
+    font-weight: 600;
+    margin-left: 150px;
+    margin-top: 53px;
+    height: 39px
+  }
+}
+@media (min-width:920px) and (max-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 920px
+  }
+  .style13,
+  .style21 {
+    color: #3f5c76;
+    font-family: 'SF Pro Display',serif;
+    font-size: 4.753333333333333em;
+    font-weight: 700;
+    margin-left: 108px;
+    margin-top: 128px;
+    height: 98px
+  }
+  .style21 {
+    color: #555d7e;
+    font-size: 4.14em;
+    font-weight: 300;
+    margin-left: 243px;
+    margin-top: 439px;
+    height: 177px
+  }
+  .style17,
+  .style18,
+  .style19,
+  .style20 {
+    color: #3f5c76;
+    font-family: 'SF Pro Text',serif;
+    font-size: 2.3em;
+    margin-left: 74px;
+    margin-top: 83px;
+    height: 248px
+  }
+  .style18,
+  .style19,
+  .style20 {
+    margin-left: 186px;
+    margin-top: 42px;
+    height: 105px
+  }
+  .style19,
+  .style20 {
+    margin-left: 96px;
+    margin-top: 56px;
+    height: 282px
+  }
+  .style19 {
+    margin-left: 211px;
+    margin-top: 54px;
+    height: 105px
+  }
+  .style14 {
+    background-color: #097ade;
+    border-top-left-radius: 27px;
+    border-top-right-radius: 27px;
+    border-bottom-left-radius: 27px;
+    border-bottom-right-radius: 27px;
+    display: flex;
+    margin-left: 93px;
+    margin-top: 86px;
+    width: 736px;
+    height: 123px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style15,
+  .style22 {
+    color: #fff;
+    font-family: 'SF Pro Text',serif;
+    font-size: 2.6066666666666665em;
+    font-weight: 500;
+    height: 52px
+  }
+  .style22 {
+    color: #097ade;
+    font-size: 2.3em;
+    font-weight: 600;
+    margin-left: 179px;
+    margin-top: 64px;
+    height: 47px
+  }
+}
+@media (min-width:1200px) {
+  .main-wrapper {
+    margin-left: auto;
+    margin-right: auto;
+    width: 1200px
+  }
+  .style13,
+  .style21 {
+    color: #3f5c76;
+    font-family: 'SF Pro Display',serif;
+    font-size: 6.2em;
+    font-weight: 700;
+    margin-left: 141px;
+    margin-top: 166px;
+    height: 128px
+  }
+  .style21 {
+    color: #555d7e;
+    font-size: 5.4em;
+    font-weight: 300;
+    margin-left: 317px;
+    margin-top: 573px;
+    height: 230px
+  }
+  .style17,
+  .style18,
+  .style19,
+  .style20 {
+    color: #3f5c76;
+    font-family: 'SF Pro Text',serif;
+    font-size: 3em;
+    margin-left: 96px;
+    margin-top: 109px;
+    height: 323px
+  }
+  .style18,
+  .style19,
+  .style20 {
+    margin-left: 243px;
+    margin-top: 54px;
+    height: 138px
+  }
+  .style19,
+  .style20 {
+    margin-left: 125px;
+    margin-top: 74px;
+    height: 368px
+  }
+  .style19 {
+    margin-left: 275px;
+    margin-top: 70px;
+    height: 138px
+  }
+  .style14 {
+    background-color: #097ade;
+    border-top-left-radius: 27px;
+    border-top-right-radius: 27px;
+    border-bottom-left-radius: 27px;
+    border-bottom-right-radius: 27px;
+    display: flex;
+    margin-left: 122px;
+    margin-top: 112px;
+    width: 960px;
+    height: 160px;
+    align-items: center;
+    flex-direction: column;
+    justify-content: center
+  }
+  .style15,
+  .style22 {
+    color: #fff;
+    font-family: 'SF Pro Text',serif;
+    font-size: 3.4000000000000004em;
+    font-weight: 500;
+    height: 67px
+  }
+  .style22 {
+    color: #097ade;
+    font-size: 3em;
+    font-weight: 600;
+    margin-left: 234px;
+    margin-top: 83px;
+    height: 61px
+  }
+}
